@@ -25,27 +25,27 @@ Using Excels COUNTIFS() function, we can understand how various ranges in fundin
 
 ### Challenges and Difficulties Encountered
 
-Overall the exercise was easy to follow. There were a few minor challenges converting deadline and launched at fields to a date format.
+Overall, the exercise was easy to follow. There were a few minor challenges converting deadline and launched at fields to a date format.
 
-Category and and Subcategory had to be broken out into separate columns in order to perform more granular analysis.
+Category and Subcategory had to be broken out into separate columns in order to perform more granular analysis.
 
 ## Results
 
-The results from the Theater Outcomes by Launch Date shows that campaigns with category "Theater" are most successful if they launch in the May to June time frame. Theater campaigns are twice as likely to succeed at this time.  December is the least successful time of year to launch, with a roughly 50% success rate. The number of canceled theater campaigns are mostly consistent through the year with a slight uptick for launches in January.
+The results from the Theater Outcomes by Launch Date shows that campaigns with category "Theater" are most successful if they launch in the May to June time frame. Theater campaigns are twice as likely to succeed if launched in May or June. December is the least successful time of year to launch, with a roughly 50% success rate. The number of canceled theater campaigns are mostly consistent through the year with a slight uptick for launches in January.
 
-The results of the Outcomes based on Goals analysis shows that campaigns for plays with lower fund raising goals are more successful than campaigns with higher fund raising goals.  
+The results of the Outcomes based on Goals analysis shows that campaigns for plays with lower fund-raising goals are more successful than campaigns with higher fund raising goals.  
 
 ### Limitations of the dataset
 
-Some limitations in this dataset include, the lack of more recent data.  The most recent year is 2017. The number of campaigns can be larger to give a better representation.  Special characters did not properly convert when the file was created. 
+The dataset would be improved if it had more recent campaign data.  The most recent year is 2017. The number of campaigns could be larger to give a better representation.  Special characters did not properly convert when the file was created. 
 
 
 ### Suggestions for other graphs and charts
-Outcomes based on goals doesn't account for currency (USD, EUR, MXN, etc).  5000 in USD is not the same as 5000 in GBP, or especially MXN. Further filtering and sorting by Currency or Country can help make this distinction clearer.
+Outcomes based on goals doesn't account for currency (USD, EUR, MXN, etc...).  5000 in USD is not the same as 5000 in GBP, or especially MXN. Further filtering and sorting by Currency or Country can help make this distinction clearer.
 
 The line chart used for Outcomes based on goals doesn't account for the increased volume of plays that fall within the lower goals ranges and the outliers in the upper goal ranges.  A bar chart may give a more accurate representation of overall percentages.
 
 Theater outcomes based on launch date could be filtered further by country. Charts that make comparisons to other parent categories may give a good reference as well.
 
-Additionally a box and whisker plot can show mean, upper and lower quartiles and IQR so that we can remove outliers that do not give a good representation of the data.
+Additionally, a box and whisker plot can show mean, upper and lower quartiles and IQR so that we can remove outliers that do not give a good representation of the data.
 

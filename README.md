@@ -40,7 +40,7 @@ The results of the Outcomes based on Goals analysis shows that campaigns for pla
 Some limitations in this dataset include, the lack of more recent data.  The most recent year is 2017. The number of campaigns can be larger to give a better representation.  Special characters did not properly convert when the file was created. 
 
 
-## Suggestions for other graphs and charts
+### Suggestions for other graphs and charts
 Outcomes based on goals doesn't account for currency (USD, EUR, MXN, etc).  5000 in USD is not the same as 5000 in GBP, or especially MXN. Further filtering and sorting by Currency or Country can help make this distinction clearer.
 
 The line chart used for Outcomes based on goals doesn't account for the increased volume of plays that fall within the lower goals ranges and the outliers in the upper goal ranges.  A bar chart may give a more accurate representation of overall percentages.

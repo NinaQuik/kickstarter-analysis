@@ -14,14 +14,14 @@ This exercise works on sorting, charting and analyzing crowd funding data in Exc
 
 By using a pivot table to filter campaigns by both years and parent category "Theater", we can see trends for successful, failed, or canceled campaigns with launch dates at different times of the year.
 
-https://github.com/NinaQuik/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+![Theater Outcomes vs Launch](https://github.com/NinaQuik/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
 Using Excels COUNTIFS() function we can understand how various ranges in funding goals correlate to the success of the campaigns with subcategory "Plays".
 
-https://github.com/NinaQuik/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
+![Outcomes vs Goals](https://github.com/NinaQuik/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 

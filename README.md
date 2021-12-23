@@ -19,7 +19,7 @@ By using a pivot table to filter campaigns by both years and parent category, we
 
 ### Analysis of Outcomes Based on Goals
 
-Using Excels COUNTIFS() function we can understand how various ranges in funding goals correlate to the success of the campaigns. The following chart shows percentages for subcategory "Plays".
+Using Excels COUNTIFS() function, we can understand how various ranges in funding goals correlate to the success of the campaigns. The following chart shows percentages for subcategory "Plays".
 
 ![Outcomes vs Goals](/Resources/Outcomes_vs_Goals.png)
 
@@ -31,22 +31,19 @@ Category and and Subcategory had to be broken out into separate columns in order
 
 ## Results
 
-Campaigns with category "Theater", across years 2009 to 2017, are most successful if they launch in the May to June time frame. Theater campaigns are twice as likely to succeed at this time.  December is the least successful time of year to launch, with a roughly 50% success rate. The number of canceled theater campaigns are mostly consistent through the year with a slight uptick for launches in January.
-
-
-- What can you conclude about the Outcomes based on Goals?
+The results from the Theater Outcomes by Launch Date shows that campaigns with category "Theater" are most successful if they launch in the May to June time frame. Theater campaigns are twice as likely to succeed at this time.  December is the least successful time of year to launch, with a roughly 50% success rate. The number of canceled theater campaigns are mostly consistent through the year with a slight uptick for launches in January.
 
 The results of the Outcomes based on Goals analysis shows that campaigns for plays with lower fund raising goals are more successful than campaigns with higher fund raising goals.  
 
-- What are some limitations of this dataset?
+### Limitations of the dataset
 
 Some limitations in this dataset include, the lack of more recent data.  The most recent year is 2017. The number of campaigns can be larger to give a better representation.  Special characters did not properly convert when the file was created. 
 
 
-- What are some other possible tables and/or graphs that we could create?
+## Suggestions for other graphs and charts
 Outcomes based on goals doesn't account for currency (USD, EUR, MXN, etc).  5000 in USD is not the same as 5000 in GBP, or especially MXN. Further filtering and sorting by Currency or Country can help make this distinction clearer.
 
-The line chart used for Outcomes based on goals doesn't account for the increased volume of plays that fall within the lower goals ranges and the outliers in the upper goal ranges.  A bar chart may give a more accurate representation of percentages.
+The line chart used for Outcomes based on goals doesn't account for the increased volume of plays that fall within the lower goals ranges and the outliers in the upper goal ranges.  A bar chart may give a more accurate representation of overall percentages.
 
 Theater outcomes based on launch date could be filtered further by country. Charts that make comparisons to other parent categories may give a good reference as well.
 
